@@ -118,8 +118,6 @@
   <div class="isolate bg-gray-900 px-10 py-5" id="section5">
     <div class="mx-auto max-w-2xl text-center">
       <h2 class="text-sm font-medium p-2 md:text-base lg:text-2xl xl:text-4xl">ติดต่อเรา</h2>
-      <h1 class="text-sm font-medium p-2 md:text-base lg:text-2xl xl:text-4xl">The Mauve</h1>
-      <p class="text-[8px] text-center md:text-xs lg:text-base xl:text-xl">1 หมู่ 7 ต.หนองแดง อ.แม่จริม จ.น่าน 55170 เบอร์ติดต่อ : 093-4299624</p>
     </div>
     <form action="#" method="POST" class="mx-auto mt-5 max-w-xl ">
       <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -152,7 +150,9 @@
   </div>
 
   <footer class="footer bg-gray-600 sm:footer-horizontal text-neutral-content justify-center items-center p-4">
-    <aside class="flex">
+    <aside class="flex flex-col items-center">
+       <h1 class="text-sm font-medium p-2 md:text-base lg:text-2xl xl:text-4xl">The Mauve</h1>
+      <p class="text-[8px] text-center md:text-xs lg:text-base xl:text-xl">1 หมู่ 7 ต.หนองแดง อ.แม่จริม จ.น่าน 55170 เบอร์ติดต่อ : 093-4299624</p>
       <p>Copyright © 2025 The Mauve - All right reserved</p>
     </aside>
 
